@@ -615,6 +615,16 @@ li {list-style: none outside none !important;}
 	text-align: center;
 }
 
+ .data-content-new{
+     font-size: 18px;
+     font-family: 'Titillium Web', sans-serif;
+     font-weight: 400;
+     color: #949496;
+     padding: 25px;
+     line-height: 28px;
+     text-align: justify;
+ }
+
 .title-two{
 	font-size: 45px;
 	text-transform: uppercase;
