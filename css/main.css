@@ -554,6 +554,8 @@ li {list-style: none outside none !important;}
 .rss{background: url("../img/rss.png") no-repeat;}
 .facebook{background: url("../img/facebook.png") no-repeat;}
 .pinterest{background: url("../img/pinterest.png") no-repeat;}
+.linkedin{background: url("../img/linkedin.png") no-repeat;}
+.tumblr{background: url("../img/tumblr.png") no-repeat}
 
 .icon {
 	float: left;
