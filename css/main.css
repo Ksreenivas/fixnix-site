@@ -691,6 +691,10 @@ li {list-style: none outside none !important;}
 .photo-two{background:url(../img/team/photo-team-02.jpg);}
 .photo-three{background:url(../img/team/photo-team-03.jpg);}
 
+.photo-one-mentor{background:url(../img/mentor/photo-team-01.jpg);}
+.photo-two-mentor{background:url(../img/mentor/photo-team-02.jpg);}
+.photo-three-mentor{background:url(../img/mentor/photo-team-03.jpg);}
+
 .name-team{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
