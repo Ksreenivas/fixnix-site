@@ -772,6 +772,15 @@ li {list-style: none outside none !important;}
 	margin-bottom: 53px;
 }
 
+
+.disciplines1{
+	width: auto;
+	height: auto;
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-bottom: 53px;
+}
+
 .ico-one{background:url(../img/ico-one.png) no-repeat;}
 .ico-two{background:url(../img/ico-two.png) no-repeat;}
 .ico-three{background:url(../img/ico-three.png) no-repeat;}
