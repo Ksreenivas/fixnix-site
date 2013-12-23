@@ -626,6 +626,15 @@ li {list-style: none outside none !important;}
      line-height: 28px;
      text-align: justify;
  }
+  .data-content-new1{
+     font-size: 18px;
+     font-family: 'Titillium Web', sans-serif;
+     font-weight: 400;
+     color: #fff;
+     padding: 25px;
+     line-height: 28px;
+     text-align: left;
+ }
 
 .title-two{
 	font-size: 45px;
