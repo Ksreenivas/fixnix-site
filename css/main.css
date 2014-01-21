@@ -247,7 +247,7 @@ textarea {
 	background: #e1716d;
 	border: solid 1px #efb2b0;
 	border-radius: 5px;
-	width: 185px;
+	width: 175px;
 	float: left;
 }.btn-one span:hover{border: solid 1px #696176; background: #696176; cursor: pointer;}
 
@@ -354,6 +354,14 @@ li {list-style: none outside none !important;}
 	padding: 8px 18px;
 	color: #fff;
 }.menubtn:hover{background: #59c3b3; border-radius: 3px;}
+
+
+.menubtn1{
+	height: auto;
+	padding: 8px 18px;
+	color: #fff;
+}.menubtn1:hover{background: #e1716d; border-radius: 3px;}
+
 
 .contentbtn {
 	font-size: 15px;
